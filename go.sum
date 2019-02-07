@@ -22,6 +22,8 @@ github.com/aws/aws-sdk-go v1.16.27 h1:TNHkkKaktx5sjlhkhjiDgeQVNW+iAWz7pD7Lvofb2b
 github.com/aws/aws-sdk-go v1.16.27/go.mod h1:KmX6BPdI08NWTb3/sm4ZGu5ShLoqVDhKgpiN924inxo=
 github.com/aws/aws-sdk-go v1.16.28 h1:iRCkoWwmP05mNRtFLM6CrczXgGl3pu7eXel0IdGvg64=
 github.com/aws/aws-sdk-go v1.16.28/go.mod h1:KmX6BPdI08NWTb3/sm4ZGu5ShLoqVDhKgpiN924inxo=
+github.com/aws/aws-sdk-go v1.16.29 h1:r3HbzZE47uBp8irmw/yTYDHKSC8qDemJWM6rgltavG0=
+github.com/aws/aws-sdk-go v1.16.29/go.mod h1:KmX6BPdI08NWTb3/sm4ZGu5ShLoqVDhKgpiN924inxo=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af h1:pmfjZENx5imkbgOkpRUYLnmbU7UEFbjtDA2hxJ1ichM=
